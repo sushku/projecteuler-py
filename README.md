@@ -1,2 +1,2 @@
 # projecteuler-py
-Solutions to problems in projecteuler.net in Python3
+Solutions to problems at https://projecteuler.net in Python3
